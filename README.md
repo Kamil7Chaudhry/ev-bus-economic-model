@@ -1,4 +1,3 @@
-**➡️ [Download the model](EV_Bus_Economic_Model.xlsx)**
 
 # EV-Economic-Model
 Excel model focused on cost comparison for University of Delaware’s shuttle fleet: electric vs diesel. Shows total cost per mile, payback time, and long-term cost difference under different what-if scenarios (lease vs buy, energy prices, incentives). Simple inputs, clear outputs for quick decisions. For non-experts; change inputs to see results.
@@ -6,6 +5,9 @@ Excel model focused on cost comparison for University of Delaware’s shuttle fl
 <p align="center">
   <img src="university-of-delaware-vector-logo.png" alt="university-of-delaware-vector-logo.png" width="520">
 </p>
+
+
+**➡️ [Download the model](EV_Bus_Economic_Model.xlsx)**
 
 
 ## Project Overview
