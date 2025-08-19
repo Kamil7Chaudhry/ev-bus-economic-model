@@ -31,3 +31,10 @@ This Excel model does one thing well: **compare costs** of electric vs. diesel s
 **What it isn’t**
 - Not a forecasting oracle; results follow your inputs (garbage in ⇒ garbage out)
 - No hidden vendor data or NDAs; numbers are example-friendly
+
+  
+# Author — Kamil Munir Chaudhry
+
+This project is part of my portfolio, showcasing practical Excel modeling and cost analysis for data analyst roles. Questions, feedback, or collaboration ideas are welcome—open an issue or reach out on your preferred channel.
+
+- LinkedIn: [Feel free to Connect!](https://www.linkedin.com/in/kamil-munir-chaudhry-015621219/)
