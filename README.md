@@ -21,7 +21,7 @@ This Excel model does one thing well: **compare costs** of electric vs. diesel s
 
 **Use it in 60 seconds**
 1. Open `EV Bus Economic Models (2).xlsx`
-2. Change the yellow input cells (fleet size, miles, prices, incentives)
+2. Change the input cells (fleet size, miles, prices, incentives)
 3. Read the **Outputs** sheet for cost per mile, payback, and NPV
 
 **Key outputs**
