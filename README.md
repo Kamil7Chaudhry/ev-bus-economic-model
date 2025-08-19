@@ -33,7 +33,7 @@ This Excel model does one thing well: **compare costs** of electric vs. diesel s
 - No hidden vendor data or NDAs; numbers are example-friendly
 
   
-# Author — Kamil Munir Chaudhry
+**Author — Kamil Munir Chaudhry**
 
 This project is part of my portfolio, showcasing practical Excel modeling and cost analysis for data analyst roles. Questions, feedback, or collaboration ideas are welcome—open an issue or reach out on your preferred channel.
 
